@@ -1,0 +1,17 @@
+_BASE_: "Base-TotalText.yaml"
+MODEL:
+  WEIGHTS: "weights/batext/pretrain_attn_R_50.pth"
+  RESNETS:
+    DEPTH: 50
+  BATEXT:
+    RECOGNIZER: "attn" # "attn" "rnn"
+    VOC_SIZE: 5462
+SOLVER:
+  IMS_PER_BATCH: 2
+  BASE_LR: 0.0025
+  STEPS: (40000, 120000)
+  MAX_ITER: 140000
+  CHECKPOINT_PERIOD: 10000
+# TEST:
+  # EVAL_PERIOD: 1000
+OUTPUT_DIR: "output/batext/totaltext/attn_R_50"
