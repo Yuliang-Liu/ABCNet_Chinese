@@ -1,0 +1,24 @@
+termcolor>=1.1
+Pillow>=7.0
+yacs>=0.1.6
+tabulate
+cloudpickle
+matplotlib
+mock
+tqdm>4.29.0
+tensorboard
+fvcore>=0.1.1
+pycocotools>=2.0.1
+future
+pydot
+
+[all]
+shapely
+psutil
+
+[dev]
+flake8==3.8.1
+isort
+black@ git+https://github.com/psf/black@673327449f86fce558adde153bb6cbe54bfebad2
+flake8-bugbear
+flake8-comprehensions
