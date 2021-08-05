@@ -1,4 +1,41 @@
 # ABCNet_Chinese
-ABCNet_Chinese
+A demo for end-to-end English and Chinese text spotting using ABCNet. This is an old model that was trained a long ago, which serves as a base setting for others to train their own model on Chinese or other language. Official [ABCNet_v2](https://arxiv.org/abs/2105.03620) models will be updated in [AdelaiDet](https://github.com/aim-uofa/AdelaiDet).
 
-[model link](https://drive.google.com/file/d/1iWX2n_BmyltVwQmfj8_oM9z7cJlq1P0m/view?usp=sharing)
+# Installation
+Install detectron2 using the provided version (support visualized Chinese text):
+```
+python -m pip install -e d2
+```
+Install this repo:
+```
+python setup.py build develop
+```
+If the above succeed, you can now run the demo using the provided model.
+
+
+# Model
+This is our model that can be used for evaluation or pretrained. 
+
+```
+wget https://drive.google.com/file/d/1iWX2n_BmyltVwQmfj8_oM9z7cJlq1P0m/view?usp=sharing -O model_chn.pth
+```
+Simply put the model in the root directory of the repo. 
+
+# Demo
+
+```
+bash demo.sh
+```
+
+# Example results
+
+# Cite
+If you find this repo useful, please cite:
+```
+@article{liu2021abcnet,
+  title={ABCNet v2: Adaptive Bezier-Curve Network for Real-time End-to-end Text Spotting},
+  author={Liu, Yuliang and Shen, Chunhua and Jin, Lianwen and He, Tong and Chen, Peng and Liu, Chongyu and Chen, Hao},
+  journal={arXiv preprint arXiv:2105.03620},
+  year={2021}
+}
+```
