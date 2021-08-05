@@ -28,6 +28,17 @@ bash demo.sh
 ```
 
 # Example results
+If you successfully run the demo, you will get the output below:
+<div align="center">
+    <img src="demo/exp1.png" width="960" >
+</div>
+
+Other results (same project but not using the provide model):
+
+Document-like Ancient words, e.g., “彝文”:
+<div align="center">
+    <img src="demo/exp4.png" width="960" >
+</div>
 
 # Cite
 If you find this repo useful, please cite:
@@ -39,3 +50,6 @@ If you find this repo useful, please cite:
   year={2021}
 }
 ```
+
+# License 
+For academic use, this project is licensed under the 2-clause BSD License - see the LICENSE file for details. For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
