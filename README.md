@@ -54,13 +54,13 @@ If you find this repo useful, please cite:
 # Data
 We provide the converted json files of ArT, LSVT, and ReCTS that we have used for training ABCNet_Chinese.
 
-- ReCTs [[images&label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=12)
+- ReCTs [[images&label]](https://drive.google.com/file/d/1ygDN1OHUusqzqJL2011wc2T_LX0t6Th4/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=12)
 
-- LSVT [[images&label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=16)
+- LSVT [[images&label]](https://drive.google.com/file/d/1E9RMFiRaRW4WdzA9Py7OimfzA82-Bwik/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=16)
 
 - ArT [[images&label]](https://drive.google.com/file/d/1w5FPlgVJxUoUsLvFF_niy2s8lQPv7LYo/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
 
-- SynChinese130k [[images&label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
+- SynChinese130k [[images&label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620) (Coming soon)
 
 
 # License 
