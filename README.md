@@ -52,15 +52,15 @@ If you find this repo useful, please cite:
 ```
 
 # Data
-We provide the converted json files of ArT, LSVT, and ReCTS that can be directly used for training (will update soon).
+We provide the converted json files of ArT, LSVT, and ReCTS that can be directly used for training.
 
-- ReCTs [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=12)
+- ReCTs [[images&label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=12)
 
-- LSVT [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=16)
+- LSVT [[images&label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=16)
 
-- ArT [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
+- ArT [[images&label]](https://drive.google.com/file/d/1w5FPlgVJxUoUsLvFF_niy2s8lQPv7LYo/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
 
-- SynChinese130k [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
+- SynChinese130k [[images&label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
 
 
 # License 
