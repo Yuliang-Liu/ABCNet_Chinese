@@ -52,7 +52,7 @@ If you find this repo useful, please cite:
 ```
 
 # Data
-We provide the converted json files of ArT, LSVT, and ReCTS that can be directly used for training.
+We provide the converted json files of ArT, LSVT, and ReCTS that we have used for training ABCNet_Chinese.
 
 - ReCTs [[images&label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=12)
 
