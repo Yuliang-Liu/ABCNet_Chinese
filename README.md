@@ -60,7 +60,7 @@ We provide the converted json files of ArT, LSVT, and ReCTS that can be directly
 
 - ArT [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
 
-- SynChinese100k [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
+- SynChinese130k [[images]](TBD) [[label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
 
 
 # License 
