@@ -51,5 +51,15 @@ If you find this repo useful, please cite:
 }
 ```
 
+# Data
+We provide the converted json files of ArT, LSVT, and ReCTS that can be directly used for training (will update soon).
+
+- ReCTs [[images]](TBD)[[label]](TBD)
+
+- LSVT [[images]](TBD)[[label]](TBD)
+
+- ArT [[images]](TBD)[[label]](TBD)
+
+One can easily use the provided script 
 # License 
 For academic use, this project is licensed under the 2-clause BSD License - see the LICENSE file for details. For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
