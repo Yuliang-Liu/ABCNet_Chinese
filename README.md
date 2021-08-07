@@ -58,7 +58,7 @@ We provide the converted json files of ArT, LSVT, and ReCTS that we have used fo
 
 - LSVT [[images&label]](https://drive.google.com/file/d/1E9RMFiRaRW4WdzA9Py7OimfzA82-Bwik/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=16)
 
-- ArT [[images&label]](https://drive.google.com/file/d/1w5FPlgVJxUoUsLvFF_niy2s8lQPv7LYo/view?usp=sharing) [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
+- ArT [[images&label]](https://drive.google.com/file/d/1w5FPlgVJxUoUsLvFF_niy2s8lQPv7LYo/view?usp=sharing)  [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
 
 - SynChinese130k [[images&label]](TBD) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620) (Coming soon)
 
