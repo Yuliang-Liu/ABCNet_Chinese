@@ -1,5 +1,5 @@
 # ABCNet_Chinese
-A demo for end-to-end English and Chinese text spotting using ABCNet. This is an old model that was trained a long ago, which serves as a base setting for others to train their own model on Chinese or other language. Official [ABCNet_v2](https://arxiv.org/abs/2105.03620) models will be updated in [AdelaiDet](https://github.com/aim-uofa/AdelaiDet).
+A demo for end-to-end English and Chinese text spotting using ABCNet. This is served as a base setting for others to train their own model on Chinese or other language. Official [ABCNet_v2](https://arxiv.org/abs/2105.03620) models will be updated in [AdelaiDet](https://github.com/aim-uofa/AdelaiDet).
 
 # Installation
 Install detectron2 using the provided version (support visualizing Chinese text):
