@@ -60,7 +60,7 @@ We provide the converted json files of ArT, LSVT, and ReCTS that we have used fo
 
 - ArT [[images&label]](https://drive.google.com/file/d/1ss_3oYVYexSmhx7AP4cahl8Emd49Wrh8/view?usp=sharing)(1.5G)  [[Origin_of_dataset]](https://rrc.cvc.uab.es/?ch=14)
 
-- SynChinese130k [[images&label]](https://drive.google.com/file/d/1aH_i0eWW3ovudZbcQjngnVaVwH06p8Jc/view?usp=sharing)(25G) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
+- SynChinese130k [[images&label]](https://drive.google.com/file/d/1w9BFDTfVgZvpLE003zM694E0we4OWmyP/view?usp=sharing)(25G) [[Origin_of_dataset]](https://arxiv.org/abs/2105.03620)
 
 
 # License 
